@@ -1,0 +1,989 @@
+họ và tên tôi là trần hoài an huyền	trần hoài an huyền|sys.full_name
+bà ngoại là nguyễn thủy tiên	nguyễn thủy tiên|sys.full_name
+tên vợ tôi là lê thị minh tuyết	lê thị minh tuyết|sys.full_name
+phan thi linh na là tên cháu ạ	phan thi linh na|sys.full_name
+ngô thị thúy vi là người học giỏi của lớp tớ	ngô thị thúy vi|sys.full_name
+tên mình có 4 chữ thôi bạn, là bành thị hàn quốc	bành thị hàn quốc|sys.full_name
+mệ nội tên phạm thị lâu liên	phạm thị lâu liên|sys.full_name
+ngô hải nam quốc là người đi đầu về lĩnh vực game	ngô hải nam quốc|sys.full_name
+cháu mình là lê văn bảy	lê văn bảy|sys.full_name
+đỗ thị hai là em của bà nội	đỗ thị hai|sys.full_name
+hà công rộng là anh rể	hà công rộng|sys.full_name
+hi, tên mình phan thị thông minh	phan thị thông minh|sys.full_name
+tên con đầy đủ là nguyễn thị thanh thúy linh	nguyễn thị thanh thúy linh|sys.full_name
+dương văn ánh là chị gái đầu	dương văn ánh|sys.full_name
+tớ là lưởng thị bưởi	lưởng thị bưởi|sys.full_name
+chào, tôi là nguyễn thị sen	nguyễn thị sen|sys.full_name
+phan thị mè là bác mình	phan thị mè|sys.full_name
+mình tên là phí thị em	phí thị em|sys.full_name
+đặng thai mai là cô dạy trường mẫu giáo tôi	đặng thai mai|sys.full_name
+hoàng thị nga là tên chị đó em à	hoàng thị nga|sys.full_name
+trần thị thi thi là tôi	trần thị thi thi|sys.full_name
+nguyễn cao kỳ duyên là hoa hậu việt nam	nguyễn cao kỳ duyên|sys.full_name
+sử lê quang quyên là tôi	sử lê quang quyên|sys.full_name
+phan thị kim luyến là tên em tôi	phan thị kim luyến|sys.full_name
+đồng nghiệp tôi là nguyễn thị hân	nguyễn thị hân|sys.full_name
+rứa rồi mày có gọi cho hoàng thị thơm chưa	hoàng thị thơm|sys.full_name
+hãy đưa cho tôi số điện thoại của nguyễn ngũ	nguyễn ngũ|sys.full_name
+con út tôi tên là trần văn hậu	trần văn hậu|sys.full_name
+tôi tên là trần huyền khánh vy	trần huyền khánh vy|sys.full_name
+tên em trai là vũ việt hùng	vũ việt hùng|sys.full_name
+tôi tên là nguyễn văn bình	nguyễn văn bình|sys.full_name
+mình là chu yến chi	chu yến chi|sys.full_name
+tên khánh hoà minh nghe hay quá	khánh hoà minh|sys.full_name
+ông ngoại là văn cao	văn cao|sys.full_name
+chồng tui tên đoàn lê thanh trí	đoàn lê thanh trí|sys.full_name
+cậu mình là hồ hận tình đời	hồ hận tình đời|sys.full_name
+lò văn xay là tên khai sinh	lò văn xay|sys.full_name
+ok, mình là ngô thanh thanh	ngô thanh thanh|sys.full_name
+tên mình 3 chữ trần trí linh	trần trí linh|sys.full_name
+tên hay gọi là ka sa ha lý	ka sa ha lý|sys.full_name
+ông có tên là lâm bảo sang	lâm bảo sang|sys.full_name
+phạm hoàng trung kính quý thư là tên bạn tôi	phạm hoàng trung kính quý thư|sys.full_name
+ông bảo ngân là tên bạn tôi	ông bảo ngân|sys.full_name
+nguyễn thị va ly nha chị	nguyễn thị va ly|sys.full_name
+ba mình tên võ sỹ quyền năng	võ sỹ quyền năng|sys.full_name
+ngô diên đăng minh là bạn cấp 2 của tôi	ngô diên đăng minh|sys.full_name
+trần bá mận là tên mình	trần bá mận|sys.full_name
+cháu gái là dương thị tô zin	dương thị tô zin|sys.full_name
+tôi là tăng ngọc tuyết nhi	tăng ngọc tuyết nhi|sys.full_name
+hồ ninh là con giữa của nhà tôi	hồ ninh|sys.full_name
+tổng giám đốc công ty là quách tất công	quách tất công|sys.full_name
+dạ, lưu văn vinh là tên đầy đủ	lưu văn vinh|sys.full_name
+em của mẹ là ngô thì nhậm	ngô thì nhậm|sys.full_name
+đừng ai nhắc đến tên trương lệ rơi	trương lệ rơi|sys.full_name
+tôi có tên là hoàng văn hồ	hoàng văn hồ|sys.full_name
+cao thi mai hiên là tên bạn học tôi	cao thi mai hiên|sys.full_name
+đỗ tấn là tên tôi	đỗ tấn|sys.full_name
+em rể tôi là ngô duy mạnh	ngô duy mạnh|sys.full_name
+tên khách hàng là bùi lê khánh trang	bùi lê khánh trang|sys.full_name
+đào ngô phương là tên mình	đào ngô phương|sys.full_name
+tên chồng tui là nguyễn khánh minh hoàng	nguyễn khánh minh hoàng|sys.full_name
+người tôi cần tìm là lê minh chí	lê minh chí|sys.full_name
+dạ, con tên triệu việt vương	triệu việt vương|sys.full_name
+cháu địch tôn là dương khai bình	dương khai bình|sys.full_name
+thà vẳn nơ muôn là vợ của em tôi	thà vẳn nơ muôn|sys.full_name
+mình là kul nguyễn bình	kul nguyễn bình|sys.full_name
+con nuôi là phạm bá thế	phạm bá thế|sys.full_name
+bạn ơi, tên mình 2 chữ trần tống	trần tống|sys.full_name
+okay, hà bảo linh là mẹ cháu	hà bảo linh|sys.full_name
+à, nguyễn ngọc anh là tên khai sinh	nguyễn ngọc anh|sys.full_name
+dương trúc anh là tên khai sinh	dương trúc anh|sys.full_name
+lều chí sình là sếp của tôi	lều chí sình|sys.full_name
+công tôn sách nha bé	công tôn sách|sys.full_name
+đồng ninh giàng là cháu út tôi	đồng ninh giàng|sys.full_name
+hồ quý ly là hoàng đế đầu tiên của nước đại ngu	hồ quý ly|sys.full_name
+tên tui trác lã mộc mạc	trác lã mộc mạc|sys.full_name
+trương thành trung là tên trên giấy tờ của tôi	trương thành trung|sys.full_name
+hứa thị thắm là cái tên nổi tiếng trong làng nghệ thuật	hứa thị thắm|sys.full_name
+bố tôi nổi tiếng với cái tên hoàng thanh	hoàng thanh|sys.full_name
+trịnh đình quyết rất thích đi du lịch	trịnh đình quyết|sys.full_name
+bà tôi tên đầy đủ như sau ngô phương	ngô phương|sys.full_name
+à dạ, tên ông ngoại là nguyễn bá hải long	nguyễn bá hải long|sys.full_name
+thông tin tên đầy đủ của mình là trần nguyên hoài mỹ	trần nguyên hoài mỹ|sys.full_name
+dạ, bùi tiến dũng là tên cầu thủ bóng đá	bùi tiến dũng|sys.full_name
+bố nuôi tôi là bạch thành phong	bạch thành phong|sys.full_name
+tôi tên trương vô buồi	trương vô buồi|sys.full_name
+tên anh cả là hoàng lai tại bửu	hoàng lai tại bửu|sys.full_name
+tên đầy đủ của cậu là thái bảo nguyên	thái bảo nguyên|sys.full_name
+chị dâu là đỗ thị chín	đỗ thị chín|sys.full_name
+thân văn ninh cư là tên khai sinh	thân văn ninh cư|sys.full_name
+mệ tôi là nguyễn thị thanh thương	nguyễn thị thanh thương|sys.full_name
+ờ, tên ngô quang nam trân	ngô quang nam trân|sys.full_name
+nguyễn thị phương thảo là tên học sinh nha chú	nguyễn thị phương thảo|sys.full_name
+ông thị ô na là tên khai sinh của cháu gái tôi	ông thị ô na|sys.full_name
+dạ, nguyễn thị bé nhất là tên thường gọi	nguyễn thị bé nhất|sys.full_name
+sô lây tăng là cô họ	sô lây tăng|sys.full_name
+bu mình là nông văn luân	nông văn luân|sys.full_name
+tên đầy đủ của chú là biện lê trung sỹ	biện lê trung sỹ|sys.full_name
+vừ a phía là một sinh viên hiếu học	vừ a phía|sys.full_name
+trương hoàng nghĩa là mình	trương hoàng nghĩa|sys.full_name
+tên trên chứng minh nhân dân của tôi là trần dân	trần dân|sys.full_name
+tên chị do ba mẹ đặt trúng mùa bão lũ nên chị tên là trần hoàng bảo	trần hoàng bảo|sys.full_name
+tên mình nghe rất uy quyền vì là trần bảo đại	trần bảo đại|sys.full_name
+hoàng mỹ miều là tên của chị ấy	hoàng mỹ miều|sys.full_name
+đỗ mỹ linh là tên của em tôi	đỗ mỹ linh|sys.full_name
+ba của ân là trương vô kỵ	trương vô kỵ|sys.full_name
+hoắc kiến hoa là con của bác thẩm gần nhà	hoắc kiến hoa|sys.full_name
+dạ tên em là khúc câu ca	khúc câu ca|sys.full_name
+còn cô là trần ngô phương	trần ngô phương|sys.full_name
+chị thứ 2 của tôi tên hồ nguyễn nhi	hồ nguyễn nhi|sys.full_name
+phan thị bảo sen là tên cháu	phan thị bảo sen|sys.full_name
+tên khai sinh như sau lê thị hồng gấm	lê thị hồng gấm|sys.full_name
+sa thị hoa là tên dân tộc của mình	sa thị hoa|sys.full_name
+đặng văn lỳ là bố đẻ tôi	đặng văn lỳ|sys.full_name
+quánh tuấn la là tên tôi	quánh tuấn la|sys.full_name
+a, lê ngọc duyên là tên cậu	lê ngọc duyên|sys.full_name
+tên mình nè đỗ phi bình trọng	đỗ phi bình trọng|sys.full_name
+lò thị muôn là con gái anh tôi	lò thị muôn|sys.full_name
+dạ chị, phan bách tuệ là bác ruột của mình	phan bách tuệ|sys.full_name
+tôi tên nguyễn ja pan	nguyễn ja pan|sys.full_name
+bạn đó có tên là sầm quang tèo	sầm quang tèo|sys.full_name
+em của mình trùng với tên của một ngôi sao là đàm vĩnh hưng	đàm vĩnh hưng|sys.full_name
+không thể kết nối đến tài khoản của nguyễn phương	nguyễn phương|sys.full_name
+nguyễn thị linh hương là tên tôi	nguyễn thị linh hương|sys.full_name
+trần văn minh là bác	trần văn minh|sys.full_name
+con đầu tôi là trần quốc anh	trần quốc anh|sys.full_name
+tên trần hoài thương nguyên nghe thật kiêu	trần hoài thương nguyên|sys.full_name
+tên bố vợ là đào hoàng mai	đào hoàng mai|sys.full_name
+đỗ xuân lợi nha bạn	đỗ xuân lợi|sys.full_name
+bí thư nơi tôi ở tên là đinh giang chai	đinh giang chai|sys.full_name
+phan thị mê cung là bác mình	phan thị mê cung|sys.full_name
+dạ, tên mình là dạ quang tình	dạ quang tình|sys.full_name
+lê ô na là tên của con mình	lê ô na|sys.full_name
+tên tôi là cù lao sang	cù lao sang|sys.full_name
+dạ, con tên lò văn sấm	lò văn sấm|sys.full_name
+võ fa mi là tên con nhì của ông tôi	võ fa mi|sys.full_name
+cháu địch tôn là tôn quách liễu	tôn quách liễu|sys.full_name
+khổng tú quỳnh như là tên tôi	khổng tú quỳnh như|sys.full_name
+dạ là nguyễn phạm nhân bạn ơi	nguyễn phạm nhân|sys.full_name
+dạ, nguyễn hoàng đại phát là cái tên	nguyễn hoàng đại phát|sys.full_name
+tên tôi là đỗ phi đen	đỗ phi đen|sys.full_name
+lò thị hy là cháu ngoại tôi	lò thị hy|sys.full_name
+à chị là vi thị tuyết lợi	vi thị tuyết lợi|sys.full_name
+tên mình luôn hợp thời là nguyễn thời thế	nguyễn thời thế|sys.full_name
+bà tân vê lốc tên đầy đủ là tào thị tân	tào thị tân|sys.full_name
+trần văn hoàng là tôi	trần văn hoàng|sys.full_name
+tên mình được đặt theo một diễn viên trong phim là trần bảo thoa	trần bảo thoa|sys.full_name
+tên nguyễn minh kiều an nghe hay nhỉ	nguyễn minh kiều an|sys.full_name
+tên bố là nguyễn hải long	nguyễn hải long|sys.full_name
+lò a xoang là con của ông nội	lò a xoang|sys.full_name
+ờ, tên bùi hạnh nguyên chị	bùi hạnh nguyên|sys.full_name
+ok, đoàn văn một là người rất chuẩn	đoàn văn một|sys.full_name
+cháu là hồ đắc vĩnh	hồ đắc vĩnh|sys.full_name
+lý a lầy là anh họ tôi	lý a lầy|sys.full_name
+tớ tên nguyễn văn tặc răng	nguyễn văn tặc răng|sys.full_name
+họ và tên tớ là phạm thị dâng hiến	phạm thị dâng hiến|sys.full_name
+hoàng sương là tên tôi	hoàng sương|sys.full_name
+tào a sến là bác mình	tào a sến|sys.full_name
+dạ, nguyễn xuân xuân là tên bác	nguyễn xuân xuân|sys.full_name
+huỳnh tấn vĩnh phúc là tên giáo viên chủ nhiệm	huỳnh tấn vĩnh phúc|sys.full_name
+tống đức vỹ nhạc là người nổi tiếng về hội họa	tống đức vỹ nhạc|sys.full_name
+trần quang đại bạn nhá	trần quang đại|sys.full_name
+đinh trần thanh mỹ là giáo viên đại học của tôi	đinh trần thanh mỹ|sys.full_name
+nông thế cừ là một trong những người có công giữ nước	nông thế cừ|sys.full_name
+trang thị xinh là bạn cũ mẹ tôi	trang thị xinh|sys.full_name
+âu dương bảo ngân là con	âu dương bảo ngân|sys.full_name
+tôi có tên đầy đủ là nguyễn đức tín	nguyễn đức tín|sys.full_name
+trịnh đình tú là em gái cô ấy	trịnh đình tú|sys.full_name
+bạn thân lúc học cấp ba của tôi là ngô thị thắm	ngô thị thắm|sys.full_name
+không biết được ai là nguyễn thị quán	nguyễn thị quán|sys.full_name
+lý ngô kim khánh là sinh viên khoa kinh tế	lý ngô kim khánh|sys.full_name
+đặng trần tùng là một thầy giáo có tiếng ở hà nội	đặng trần tùng|sys.full_name
+à tên bố vợ là lê công vinh	lê công vinh|sys.full_name
+họ và tên đầy đủ là nguyễn hoàng kim nguyên	nguyễn hoàng kim nguyên|sys.full_name
+tên đầy đủ kim an khánh	kim an khánh|sys.full_name
+ông là lê quang sáng	lê quang sáng|sys.full_name
+cao lê minh nguyệt là học sinh giỏi của năm	cao lê minh nguyệt|sys.full_name
+chị dâu cả là trần thị mười	trần thị mười|sys.full_name
+mẹ nuôi là lưu việt anh	lưu việt anh|sys.full_name
+anh tên phan văn bá đạo	phan văn bá đạo|sys.full_name
+tên mẹ đẻ là đỗ quốc dũng	đỗ quốc dũng|sys.full_name
+tên khai sinh là lya mẩy muội	lya mẩy muội|sys.full_name
+tên cậu mình là rô nan đô	rô nan đô|sys.full_name
+nguyễn trần khánh linh là bạn	nguyễn trần khánh linh|sys.full_name
+bác là doãn ngô năm	doãn ngô năm|sys.full_name
+chồng tôi là ông cao thắng	ông cao thắng|sys.full_name
+mông tiến thông là học sinh giỏi của trường ạ	mông tiến thông|sys.full_name
+bạch tố nữ là tên nhe bạn	bạch tố nữ|sys.full_name
+lê thị trà là tên ông mình	lê thị trà|sys.full_name
+phùng đức dinh là người có hộ khẩu ở phú thọ	phùng đức dinh|sys.full_name
+nguyễn hồng là tớ	nguyễn hồng|sys.full_name
+có nghĩ là ông nguyễn mỹ đã sang mỹ rồi không	nguyễn mỹ|sys.full_name
+phạm thị giao liên là bạn ba tớ	phạm thị giao liên|sys.full_name
+chị cả tôi là nguyễn mỹ hương	nguyễn mỹ hương|sys.full_name
+trần đặng minh thắng là con ạ	trần đặng minh thắng|sys.full_name
+chồng sắp cưới của chị là bàn văn mình	bàn văn mình|sys.full_name
+yên thị hên là bác mình	yên thị hên|sys.full_name
+bà nội là nguyễn thi thủy	nguyễn thi thủy|sys.full_name
+đỗ thị cam làm bạn nhé	đỗ thị cam|sys.full_name
+mợ mình là lê thi da ly	lê thi da ly|sys.full_name
+kha văn nam là bác họ mình	kha văn nam|sys.full_name
+bùi thị phàn là chị nuôi của tôi	bùi thị phàn|sys.full_name
+tớ là cà văn dĩnh	cà văn dĩnh|sys.full_name
+bùi rực rỡ như hoa là tên cháu ngoại tôi	bùi rực rỡ như hoa|sys.full_name
+hoàng văn tả là tôi	hoàng văn tả|sys.full_name
+tô cẩm khánh nhi là cháu ngoại tôi	tô cẩm khánh nhi|sys.full_name
+tên đây đủ như giấy khai sinh là ngô công ích	ngô công ích|sys.full_name
+bạn cùng phòng với tôi là lê trà my đó	lê trà my|sys.full_name
+bạn cao thành kiến là bạn chung cấp một với mình	cao thành kiến|sys.full_name
+lý hắc đại là tên một danh nhân của nước bạn	lý hắc đại|sys.full_name
+có liên quan khi bạn gọi tên bạn trai tớ nguyễn mạnh hùng	nguyễn mạnh hùng|sys.full_name
+lê cát trọng lý là giống y tên thần tượng của tao nè	lê cát trọng lý|sys.full_name
+cuốn sách đó là của trần minh mẫn á bạn	trần minh mẫn|sys.full_name
+lê nguyễn kim trâm là tên của mình a	lê nguyễn kim trâm|sys.full_name
+tên của tôi là bùi lê khánh trang	bùi lê khánh trang|sys.full_name
+dạ, em tên là trần hương giang	trần hương giang|sys.full_name
+xuân diệu là nhà thơ việt nam	xuân diệu|sys.full_name
+tên nguyễn thu quyên nghe hay ghê	nguyễn thu quyên|sys.full_name
+con trai út của bác tớ là trần quốc trung niên	trần quốc trung niên|sys.full_name
+tên mình khá dài, là phạm công cúc hoa ngọc lê na	phạm công cúc hoa ngọc lê na|sys.full_name
+còn vợ tên đông nhi	đông nhi|sys.full_name
+ngô văn ba là bạn học ạ	ngô văn ba|sys.full_name
+mình tên là lý mai vĩnh	lý mai vĩnh|sys.full_name
+tôi là vì văn khăm	vì văn khăm|sys.full_name
+đới phong lưu là người của công ty phi long	đới phong lưu|sys.full_name
+bạn có biết lê công lễ không	lê công lễ|sys.full_name
+trịnh xuân thanh là tên một người nổi tiếng	trịnh xuân thanh|sys.full_name
+lê ngọc tuyển là mình đây	lê ngọc tuyển|sys.full_name
+trên khai sinh tôi tên đinh duy điểu	đinh duy điểu|sys.full_name
+em tên trần thị quỳnh châu	trần thị quỳnh châu|sys.full_name
+tên là nguyễn trần hải thương	nguyễn trần hải thương|sys.full_name
+tên mình hơi dài, là trần trọng quá đẹp trai	trần trọng quá đẹp trai|sys.full_name
+chủ tiệm vàng trên đường lê la là cao ý tăng	cao ý tăng|sys.full_name
+trần thị hoàng kim là em họ của tớ đấy	trần thị hoàng kim|sys.full_name
+bác ruột tôi là vũ thị quyết tiến	vũ thị quyết tiến|sys.full_name
+lã ái nhông là cháu ngoại tôi	lã ái nhông|sys.full_name
+chủ tịch huyện là vừ a dính	vừ a dính|sys.full_name
+mình tên là ninh dương lan ngọc	ninh dương lan ngọc|sys.full_name
+con mình là trần lê sáu	trần lê sáu|sys.full_name
+chồng mình lâm văn tám	lâm văn tám|sys.full_name
+tống gia tường là tên của chú	tống gia tường|sys.full_name
+bà nội tôi là diệp thị thu huyền	diệp thị thu huyền|sys.full_name
+dượng mình là trần công ảnh	trần công ảnh|sys.full_name
+ai biết mày tên là ngô thời nhiệm đâu con	ngô thời nhiệm|sys.full_name
+bùi thị hồng thi là bạn học lúc trước	bùi thị hồng thi|sys.full_name
+âu dương hà lai là bạn cùng trường	âu dương hà lai|sys.full_name
+thằng đó là lưu kế doãn	lưu kế doãn|sys.full_name
+à, là lê ngọc hoa	lê ngọc hoa|sys.full_name
+dạ, ông là nguyễn lê khanh	nguyễn lê khanh|sys.full_name
+đặng lê hoài thương là tên đầy đủ	đặng lê hoài thương|sys.full_name
+con gái của em tôi tên trần thảo nhi	trần thảo nhi|sys.full_name
+dạ, cháu là lương tú yên	lương tú yên|sys.full_name
+mình tên là phùng văn sơn sa	phùng văn sơn sa|sys.full_name
+dạ, con tên thượng nguyễn thanh nguyên	thượng nguyễn thanh nguyên|sys.full_name
+chủ tịch phường là đinh công vợi	đinh công vợi|sys.full_name
+dương thị anh đào là bạn	dương thị anh đào|sys.full_name
+lê hoàng nghĩa là tên trên giấy tờ của mình	lê hoàng nghĩa|sys.full_name
+vũ ngân giang là cháu	vũ ngân giang|sys.full_name
+dạ, nguyễn đình hiếu là cháu	nguyễn đình hiếu|sys.full_name
+họ và tên của mình trần minh chí	trần minh chí|sys.full_name
+ờ, tên của mình là nguyễn vũ anh minh	nguyễn vũ anh minh|sys.full_name
+lò thị phương là tên khai sinh	lò thị phương|sys.full_name
+hoàng ngọc phan là ông ngoại	hoàng ngọc phan|sys.full_name
+chị họ có tên nguyễn thị lờ	nguyễn thị lờ|sys.full_name
+ồ, đúng là trần khánh thi	trần khánh thi|sys.full_name
+chào cô, con tên bùi quốc tiến	bùi quốc tiến|sys.full_name
+mình tên là văn hữu chiến	văn hữu chiến|sys.full_name
+cô bán tạp hóa là bạch tiểu minh	bạch tiểu minh|sys.full_name
+dạ con tên nguyễn thu quyên	nguyễn thu quyên|sys.full_name
+tên em là trịnh thị noel	trịnh thị noel|sys.full_name
+tạ uông luyến là anh trai của tôi	tạ uông luyến|sys.full_name
+vũ thị diêm là khách hàng của anh trí	vũ thị diêm|sys.full_name
+thầy dạy tiếng anh là hà quyết thắng	hà quyết thắng|sys.full_name
+tên đủ là nguyễn mạnh hùng	nguyễn mạnh hùng|sys.full_name
+mọi người thích cái tên võ duy nhật nhỉ	võ duy nhật|sys.full_name
+anh nguyễn tý vừa ở nhà tôi về	nguyễn tý|sys.full_name
+mạc văn khoa là tên của câu thủ đội bóng tôi	mạc văn khoa|sys.full_name
+người đạt giải thưởng lần này là hồ thị ly sa	hồ thị ly sa|sys.full_name
+nguyễn mạnh nha là tôi	nguyễn mạnh nha|sys.full_name
+ung xuân giang là bác	ung xuân giang|sys.full_name
+lê minh chí là tên khai sinh	lê minh chí|sys.full_name
+khách hàng của bạn là nguyễn minh an	nguyễn minh an|sys.full_name
+tên là nguyễn mỹ duyên	nguyễn mỹ duyên|sys.full_name
+mẹ chồng tôi là tăng thanh hà	tăng thanh hà|sys.full_name
+trương vô kỵ là tên tui nhé	trương vô kỵ|sys.full_name
+đống văn tình cờ là tên tôi	đống văn tình cờ|sys.full_name
+con bà một là tên khai sinh của tôi	con bà một|sys.full_name
+tào lại như anh nha bạn	tào lại như anh|sys.full_name
+văn nệnh kây là tên mình	văn nệnh kây|sys.full_name
+con bà năm là trần thị ngân hà	trần thị ngân hà|sys.full_name
+trong giấy khai sinh tôi tên bạch lai hùng	bạch lai hùng|sys.full_name
+tên đầy đủ của ôn là hồ đức vai	hồ đức vai|sys.full_name
+trần quốc duy hà là cái tên thật hay	trần quốc duy hà|sys.full_name
+dạ, con tên lê khai man	lê khai man|sys.full_name
+hà cắm di là cháu ngoại tôi	hà cắm di|sys.full_name
+ninh ánh vy là tên tôi	ninh ánh vy|sys.full_name
+nông đình hiên là bố tôi	nông đình hiên|sys.full_name
+ông thị bảo ngọ nha cưng	ông thị bảo ngọ|sys.full_name
+tôi là nông sơn quán	nông sơn quán|sys.full_name
+tên là ngô hoàng đó nha	ngô hoàng|sys.full_name
+nguyễn chiến thắng là tên bác	nguyễn chiến thắng|sys.full_name
+trần sử hoàng long là tên bạn thân anh tôi	trần sử hoàng long|sys.full_name
+tên chị dâu tôi là bàn hữu dần	bàn hữu dần|sys.full_name
+tên mình hơi đặc biệt tống thị xê ra	tống thị xê ra|sys.full_name
+phạm trúc lam hà là tên đầy đủ bạn nha	phạm trúc lam hà|sys.full_name
+tất cả mọi người đều thích tên mình vì cái tên đỗ hoàng thượng	đỗ hoàng thượng|sys.full_name
+nguyễn khiêm là tên của tôi	nguyễn khiêm|sys.full_name
+hứa văn thích nghe là không thích rồi	hứa văn thích|sys.full_name
+lê bảo lam kính là cô tớ	lê bảo lam kính|sys.full_name
+bùi ánh viên là vận động viên điền kinh nước ta	bùi ánh viên|sys.full_name
+đó là uông xuân bí	uông xuân bí|sys.full_name
+mình tên lê nguyễn bảo hân	lê nguyễn bảo hân|sys.full_name
+tên đầy đủ là lê quang hải	lê quang hải|sys.full_name
+em gái tên đỗ mỹ ngọc	đỗ mỹ ngọc|sys.full_name
+me là trần thủy tiên	trần thủy tiên|sys.full_name
+tên tui là ngô quang anh	ngô quang anh|sys.full_name
+tên cô ba của nhà mình là lê thị number one	lê thị number one|sys.full_name
+tôi là hơ vê	hơ vê|sys.full_name
+tôi là mông lợi chung	mông lợi chung|sys.full_name
+lý lòi sáng là tên đầy đủ của chị tôi	lý lòi sáng|sys.full_name
+bác tên trịnh minh tuấn	trịnh minh tuấn|sys.full_name
+cháu địch tôn là ông ích đặng	ông ích đặng|sys.full_name
+bùi văn kín là anh trai của bác tôi	bùi văn kín|sys.full_name
+cháu mới sinh của mình là lê vũ minguk	lê vũ minguk|sys.full_name
+vương thị loan là tên như trong giấy tờ khai sinh nha bạn	vương thị loan|sys.full_name
+tên đầy đủ của bác là trương ka ky	trương ka ky|sys.full_name
+đặng văn vinh là cậu ruột của tôi	đặng văn vinh|sys.full_name
+tạ thanh tú là bạn tôi	tạ thanh tú|sys.full_name
+tên đủ là ngô hoàng	ngô hoàng|sys.full_name
+cái tên thái văn hưng nghe thiệt chán	thái văn hưng|sys.full_name
+tạ thế long là nhân viên phụ trách ở đấy	tạ thế long|sys.full_name
+tấn văn long vương là tên đầy đủ nha	tấn văn long vương|sys.full_name
+chú tên là trần văn chuẩn nhé	trần văn chuẩn|sys.full_name
+đạt giải cao nhất là cao văn an	cao văn an|sys.full_name
+nguyễn thị dương b là cái tên độc nhất mà tôi từng gặp	nguyễn thị dương b|sys.full_name
+người dọn dẹp phòng đó là ngô thời thiên	ngô thời thiên|sys.full_name
+tên mình là văn hoà liên	văn hoà liên|sys.full_name
+nguyễn ánh kim khanh là tên của mình ạ	nguyễn ánh kim khanh|sys.full_name
+lê nguyễn bảo hân là người dễ thương ạ	lê nguyễn bảo hân|sys.full_name
+mình là đặng trần minh vy	đặng trần minh vy|sys.full_name
+con tôi là nguyễn kiều oanh	nguyễn kiều oanh|sys.full_name
+họ tên của tôi là nguyễn minh khánh an	nguyễn minh khánh an|sys.full_name
+ông là trần minh quang	trần minh quang|sys.full_name
+tên đầy đủ của tôi là đặng linh chi	đặng linh chi|sys.full_name
+tên tôi là đồng hồ thụy sỹ	đồng hồ thụy sỹ|sys.full_name
+vâng, lê thanh nam anh nha	lê thanh nam|sys.full_name
+dạ bác, con tên đỗ sơn lâm	đỗ sơn lâm|sys.full_name
+ời, cô của em tên là nguyễn thị thanh thúy thùy tâm	nguyễn thị thanh thúy thùy tâm|sys.full_name
+trương hoàng kim là con gái anh tôi	trương hoàng kim|sys.full_name
+bà là văn võ my cơ	văn võ my cơ|sys.full_name
+lý a chức là đồng nghiệp mình	lý a chức|sys.full_name
+tôi là lò ái nhì là con gái anh tôi	lò ái nhì|sys.full_name
+tên là tán lỗ yến huynh	lỗ yến huynh|sys.full_name
+tôi là nông văn ngọ	nông văn ngọ|sys.full_name
+hà bảo một là em mẹ tôi	hà bảo một|sys.full_name
+tôi tên ngô văn nho	ngô văn nho|sys.full_name
+phùng thị lợi là khách hàng của anh tôi	phùng thị lợi|sys.full_name
+tên đầy đủ của me là mậu thị tố cẩm	mậu thị tố cẩm|sys.full_name
+đỗ trần ân ái là bạn phổ thông của chị	đỗ trần ân ái|sys.full_name
+tên mình có năm chữ đào được thị kim cương	đào được thị kim cương|sys.full_name
+tớ là thạch kim ca cậu nha	thạch kim ca|sys.full_name
+cu đứng ở hàng đầu là hứa lê nguyên quốc	hứa lê nguyên quốc|sys.full_name
+hoàng văn hên là tên trên giấy tờ của cô đó	hoàng văn hên|sys.full_name
+nguyễn hoàng long có nghĩa là vua đó nha	nguyễn hoàng long|sys.full_name
+phạm hoàng tùng là tên cậu ấy	phạm hoàng tùng|sys.full_name
+tên thật của mình là hồ hoàng thiên mà	hồ hoàng thiên|sys.full_name
+mẹ tôi hay gặp cô lý thanh hoa	lý thanh hoa|sys.full_name
+tôi là nguyễn đức chinh	nguyễn đức chinh|sys.full_name
+tớ có tên đầy đủ là nguyễn chính	nguyễn chính|sys.full_name
+đỗ thanh là người làm bên tôi	đỗ thanh|sys.full_name
+trần minh phương là tên mình nhé bạn	trần minh phương|sys.full_name
+tôi là nguyễn mạnh đức	nguyễn mạnh đức|sys.full_name
+ai cũng gọi mình với tên là nguyễn được	nguyễn được|sys.full_name
+chắc là phạm hải an muốn ăn lẩu hơn	phạm hải an|sys.full_name
+quách cao yên là mợ tôi	quách cao yên|sys.full_name
+tống phú quý chắc là người gốc trung rồi	tống phú quý|sys.full_name
+cái tên phạm nhật tuệ đã nói lên tất cả	phạm nhật tuệ|sys.full_name
+ngô cao kiến là tên hay mà	ngô cao kiến|sys.full_name
+không thể nhờ cái thằng võ văn tần được	võ văn tần|sys.full_name
+mới đi mua hàng của bà lê thị bé	lê thị bé|sys.full_name
+ai cũng yêu mến trương công hậu	trương công hậu|sys.full_name
+họ và tên cha là trương văn thuần	trương văn thuần|sys.full_name
+ngô tất tố là nhà văn nước mình	ngô tất tố|sys.full_name
+hồ thức là chú đây	hồ thức|sys.full_name
+nguyễn thị tố mai là cái tên nổi trong những ngày gần đây	nguyễn thị tố mai|sys.full_name
+người dẫn chương trình là trần phương nga	trần phương nga|sys.full_name
+chang thị lin là tên khai sinh của cháu nội tui	chang thị lin|sys.full_name
+cô năm nhà mình tên là hồ dương ngọc ái	hồ dương ngọc ái|sys.full_name
+tên là lương trung dũng	lương trung dũng|sys.full_name
+tên tôi là nguyễn thái	nguyễn thái|sys.full_name
+mọi người vẫn gọi mình là nguyễn hồng thịnh	nguyễn hồng thịnh|sys.full_name
+có nhớ tên trần hoàng khánh không	hoàng khánh|sys.full_name
+bạn có quen ai là bùi quang ngọc không	bùi quang ngọc|sys.full_name
+giúp tôi lấy hàng từ trương đình đại	trương đình đại|sys.full_name
+không hiểu nổi cách diễn đạt của phan công dinh	phan công dinh|sys.full_name
+lần đầu tiên nghe đến cái tên lý mạc sầu	lý mạc sầu|sys.full_name
+ta tên thạch kim sến	thạch kim sến|sys.full_name
+con bác vĩ là triệu võ quang úc	triệu võ quang úc|sys.full_name
+tôi tên trần hoàng	trần hoàng|sys.full_name
+ngô thanh thanh là chị ruột của bạn mình	ngô thanh thanh|sys.full_name
+người đang sửa điện là nguyễn thị a	nguyễn thị a|sys.full_name
+tán nguyễn hoàng oanh là tên tớ	nguyễn hoàng oanh|sys.full_name
+vũ huy đông dương là tôi	vũ huy đông dương|sys.full_name
+vũ hoàng khuyên là tôi	vũ hoàng khuyên|sys.full_name
+huỳnh khánh ngọc là tên chị	huỳnh khánh ngọc|sys.full_name
+tên của tôi được đặt theo tên của một mỹ nhân vương chiêu quân	vương chiêu quân|sys.full_name
+dạ con là lò thị đèn	lò thị đèn|sys.full_name
+nguyễn trí là mình	nguyễn trí|sys.full_name
+hoàng kế viêm là người chịu trách nhiệm hoạt động này	hoàng kế viêm|sys.full_name
+nhân viên xuất sắc của tháng là thào xuân sùng	thào xuân sùng|sys.full_name
+hứa văn hoàng là mình nè	hứa văn hoàng|sys.full_name
+không hiểu được ý nghĩa của tên nguyễn công thi là gì	nguyễn công thi|sys.full_name
+tên đầy đủ là lê đình toàn	lê đình toàn|sys.full_name
+tên ba mẹ mình đặt là trần nhân thức	trần nhân thức|sys.full_name
+lý a phong là thầy giáo anh trai	lý a phong|sys.full_name
+nguyễn thị kiều loan là người mới đăng quang giải thưởng	nguyễn thị kiều loan|sys.full_name
+tên tôi là nguyễn chăng	nguyễn chăng|sys.full_name
+hoàng thị nga là tên chị nhé em	hoàng thị nga|sys.full_name
+tên trương quang khang nghe thật hay	trương quang khang|sys.full_name
+lương thị thìn là tên của bạn tôi	lương thị thìn|sys.full_name
+huỳnh hiểu nghệ nghe có vẻ sai sai	huỳnh hiểu nghệ|sys.full_name
+nghe tên ngô bá tước hợp lý vãi	ngô bá tước|sys.full_name
+bà tôi là nguyễn thị lý	nguyễn thị lý|sys.full_name
+nguyễn thiện luôn là người chậm chạp nhất	nguyễn thiện|sys.full_name
+phạm phước thái là tớ	phạm phước thái|sys.full_name
+tôi là nguyễn huỳnh đức nhé	huỳnh đức|sys.full_name
+người đứng đầu công ty là anh hồ a ly sa	hồ a ly sa|sys.full_name
+tên mình trùng với một tỉnh của việt nam là trịnh văn lào cai	trịnh văn lào cai|sys.full_name
+hoàng văn ba là bác đây	hoàng văn ba|sys.full_name
+tôi luôn nhớ cái tên của bạn ấy ngô bích trâm	ngô bích trâm|sys.full_name
+đặng võ bảo châu là học sinh giỏi lớp bên cạnh	đặng võ bảo châu|sys.full_name
+mai hoàng huy là tên khai sinh tôi đó	mai hoàng huy|sys.full_name
+mình là hoàng thị len	hoàng thị len|sys.full_name
+tôi định mời nguyễn văn chung đi ăn	nguyễn văn chung|sys.full_name
+chắc là ngô thanh hùng đang bận họp	ngô thanh hùng|sys.full_name
+lê bảo thúy huyền là bạn mình	lê bảo thúy huyền|sys.full_name
+tên khai sinh mình là hoàng nghĩa phú	hoàng nghĩa phú|sys.full_name
+nên hỏi hỏi thằng thái văn linh	thái văn linh|sys.full_name
+hoàng nga là tên của cô ta	hoàng nga|sys.full_name
+hoàng mạnh tùng là tên của chú	hoàng mạnh tùng|sys.full_name
+nguyễn thị lài là tên mình nhé	nguyễn thị lài|sys.full_name
+đinh thị mậu là giáo viên cấp 2 của tôi	đinh thị mậu|sys.full_name
+thiều bảo trâm là người yêu anh tôi	thiều bảo trâm|sys.full_name
+nguyễn phan hoài vy là tôi	nguyễn phan hoài vy|sys.full_name
+đoàn tại biểu là anh trai tôi	đoàn tại biểu|sys.full_name
+tên mình là hoàng văn nghĩa	hoàng văn nghĩa|sys.full_name
+hoa hậu ngô thanh vân là chị đó	ngô thanh vân|sys.full_name
+hàng xóm mình tên là trần đại nghĩa	trần đại nghĩa|sys.full_name
+tên bác là hoàng văn thái	hoàng văn thái|sys.full_name
+mình là nguyễn hoàng thái	nguyễn hoàng thái|sys.full_name
+tên của mình là trương văn sơn	trương văn sơn|sys.full_name
+nghĩ miết mới nhớ ra là võ nghĩa	võ nghĩa|sys.full_name
+phan thị bảo an là bạn tôi	phan thị bảo an|sys.full_name
+cái tên đầy hy vọng lê xanh xanh	lê xanh xanh|sys.full_name
+đặng thị kim yến là người	đặng thị kim yến|sys.full_name
+trần thị hoa ry là tên của cô nhà bên cạnh	trần thị hoa ry|sys.full_name
+tôi tên là nguyễn hồng phúc	nguyễn hồng phúc|sys.full_name
+hồ thị nga là tên mình nhé	hồ thị nga|sys.full_name
+hình như nguyễn phú thịnh đã đi chơi rồi	nguyễn phú thịnh|sys.full_name
+lâm bảo đạt là tớ	lâm bảo đạt|sys.full_name
+nguyễn thế hòa là tôi	nguyễn thế hòa|sys.full_name
+vâng tôi là ngô dương anh hội	ngô dương anh hội|sys.full_name
+tên khai sinh là đàm vĩnh hưng	đàm vĩnh hưng|sys.full_name
+tên đủ là trương thị bích	trương thị bích|sys.full_name
+nguyễn đức chính là mình đây	nguyễn đức chính|sys.full_name
+mai thanh long là nhân viên mới	mai thanh long|sys.full_name
+tổng giám đốc là bùi san	bùi san|sys.full_name
+không ai gọi điện thoại đến số máy của võ tiến sơn	võ tiến sơn|sys.full_name
+tôi là sùng chúng thanh thủy	chúng thanh thủy|sys.full_name
+tên tớ là nguyễn thị tố nga	nguyễn thị tố nga|sys.full_name
+chấn văn quang là tên dầy đủ của người thắng cuộc thi hôm nay	chấn văn quang|sys.full_name
+tên đầy đủ là giàng văn quy	giàng văn quy|sys.full_name
+ngô thông là anh	ngô thông|sys.full_name
+tên là nguyễn phước hà thiên	nguyễn phước hà thiên|sys.full_name
+tên là trịnh văn quyết	trịnh văn quyết|sys.full_name
+thái quang hợp là tên đứa nào vậy	thái quang hợp|sys.full_name
+phạm đinh li na là chị ruột tôi	phạm đinh li na|sys.full_name
+thái ngô khánh tuyền là mình	thái ngô khánh tuyền|sys.full_name
+nhìn ngô công sang có vẻ suy tình nhỉ	ngô công sang|sys.full_name
+không biết trần thanh khê đã đi chưa	trần thanh khê|sys.full_name
+tôi cần lấy hàng từ cơ sở của lý cung	lý cung|sys.full_name
+lê lý danh là tên diễn viên phim cổng chân trời	lê lý danh|sys.full_name
+ngụy lê ý kiến là tên tui	ngụy lê ý kiến|sys.full_name
+tôi là mai anh kiệt	mai anh kiệt|sys.full_name
+có đúng khi công ty tuyển nguyễn phước làm trưởng phòng	nguyễn phước|sys.full_name
+người đang hát là trương thanh thiện	trương thanh thiện|sys.full_name
+dương văn vẽ là bạn của thầy giáo mình	dương văn vẽ|sys.full_name
+tôi thì không thích tên nguyễn trọng võ đâu nha	nguyễn trọng võ|sys.full_name
+không biết ai đặt tên nguyễn công huấn cho nó	nguyễn công huấn|sys.full_name
+tên mình nè cậu đàm thoại viên	đàm thoại viên|sys.full_name
+tên chú là nguyễn mạnh	nguyễn mạnh|sys.full_name
+tên không thể sang hơn là thân thời thế	thân thời thế|sys.full_name
+tên ở trường và tên ở nhà đều là nguyễn ly na	nguyễn ly na|sys.full_name
+tao không ai là tên hứa văn tô	hứa văn tô|sys.full_name
+tôi đang ăn cùng với nguyễn trương hậu nè	nguyễn trương hậu|sys.full_name
+tên đào minh hòa nghe hay ghê	đào minh hòa|sys.full_name
+bùi nhật minh khôi là tên tôi	bùi nhật minh khôi|sys.full_name
+không ai đề cập đến võ thanh ban nữa	võ thanh ban|sys.full_name
+cà phê của phạm kim phong là số một	phạm kim phong|sys.full_name
+biện lê hồng hạnh là bạn đại học của tôi	lê hồng hạnh|sys.full_name
+ngô hoàng là tên bác đây	ngô hoàng|sys.full_name
+lý đình là mình	lý đình|sys.full_name
+tạ khải đức tiến là tớ	tạ khải đức tiến|sys.full_name
+rất ấn tượng với tên ngô phấn khích	ngô phấn khích|sys.full_name
+tác giả là ngô công thân đó	ngô công thân|sys.full_name
+vừa mới liên lạc với võ sinh xong đó bạn	võ sinh|sys.full_name
+hồ kim toàn là bạn mình	hồ kim toàn|sys.full_name
+không cần hỏi ý kiến của nguyễn bá cảnh đâu	nguyễn bá cảnh|sys.full_name
+trịnh quốc vĩ là bạn tôi	trịnh quốc vĩ|sys.full_name
+tớ đang nói chuyện với nguyễn hải vân nè	nguyễn hải vân|sys.full_name
+tên trên giấy tờ là nguyễn mạnh	nguyễn mạnh|sys.full_name
+bác có tên là trần văn sung	trần văn sung|sys.full_name
+ai cũng gọi anh ấy là trương ngũ ca	trương ngũ ca|sys.full_name
+không thể hiểu nổi ai đặt tên mình là lý siu	lý siu|sys.full_name
+tên bác là hoàng văn thích	hoàng văn thích|sys.full_name
+nói không có đầu cuối là võ duy hưng	võ duy hưng|sys.full_name
+anh giúp tôi gọi cho phạm trần hùng với	phạm trần hùng|sys.full_name
+tên ngô cao thủ nghe có vẻ hấp dẫn	ngô cao thủ|sys.full_name
+nhớ miết cái tên lý na	lý na|sys.full_name
+có ai đã hỏi ông nguyễn phúc sinh chưa	nguyễn phúc sinh|sys.full_name
+trương quang khang là tên con của mình	trương quang khang|sys.full_name
+mình là nguyễn thi ngọc lan	nguyễn thi ngọc lan|sys.full_name
+bác tên là trần thanh thiện	trần thanh thiện|sys.full_name
+tôi có tên là hoàng văn hai	hoàng văn hai|sys.full_name
+hứa văn là anh	hứa văn|sys.full_name
+tôi là hoàng văn nhật	hoàng văn nhật|sys.full_name
+tên chính thức trên giấy tờ của mình là hoàng thiên sa	hoàng thiên sa|sys.full_name
+bạn cứ gọi mình là hồ thị mỹ hằng	hồ thị mỹ hằng|sys.full_name
+mọi người chỉ biết mình với tên nguyễn huỳnh tố trinh	nguyễn huỳnh tố trinh|sys.full_name
+tào bá lộc là người của mạng xã hội	tào bá lộc|sys.full_name
+tên đầy đủ là phạm gia hân	phạm gia hân|sys.full_name
+đoán là võ thanh đã đi đâu đó rồi	võ thanh|sys.full_name
+tôi là nguyễn mạnh hải	nguyễn mạnh hải|sys.full_name
+chắc mẹ bạn ấy là tống thị thơ	tống thị thơ|sys.full_name
+họ và tên cha là hồ quý ly	hồ quý ly|sys.full_name
+cứ thấy ngã năm là nhớ đến tên tôi hoàng ngũ đường	hoàng ngũ đường|sys.full_name
+tên trên giấy khai sinh là trần minh hưng	trần minh hưng|sys.full_name
+trần trọng kiên là tớ	trần trọng kiên|sys.full_name
+mình là phạm thị mỹ nga	phạm thị mỹ nga|sys.full_name
+chắc không ai hiểu được bài hát của thằng ngô kiến phong	ngô kiến phong|sys.full_name
+tên nguyễn trung thực nghe vẻ không hay lắm	nguyễn trung thực|sys.full_name
+tên bạn cấp 3 của tôi là lý ba dung	lý ba dung|sys.full_name
+tôi tên trịnh hoàng sa	trịnh hoàng sa|sys.full_name
+cô tổng đài đó là trần thị thanh	trần thị thanh|sys.full_name
+tôi thường hay hỏi nguyễn đình phúc lý để biết thêm thông tin	nguyễn đình phúc lý|sys.full_name
+cộng sự tốt nhất của đời tui là trương thị thanh thiện	trương thị thanh thiện|sys.full_name
+lại văn sâm là người đẫn chương trình nổi tiếng	lại văn sâm|sys.full_name
+bà nội của con bé đó là ngụy lê ánh dương đấy	ngụy lê ánh dương|sys.full_name
+mộc tân binh là người dẫn dắt đội bóng	mộc tân binh|sys.full_name
+cứ nghe thấy tên của ông anh thái luyện là sợ thôi	thái luyện|sys.full_name
+tên đủ là nguyễn minh trí	nguyễn minh trí|sys.full_name
+nguyễn chí thanh trúc là tên tôi	nguyễn chí thanh trúc|sys.full_name
+mình tên là cao điền quỳnh thao	cao điền quỳnh thao|sys.full_name
+trương văn nghĩa là chị đây em	trương văn nghĩa|sys.full_name
+tên đầy đủ là hoàng thị lệ	hoàng thị lệ|sys.full_name
+trương văn ba là tôi	trương văn ba|sys.full_name
+tên ba mẹ đặt là nguyễn chiến công	nguyễn chiến công|sys.full_name
+không biết ai là ngô thái hoàng	ngô thái hoàng|sys.full_name
+lỳ ly phà là tên ông ngoại	lỳ ly phà|sys.full_name
+bạn lý đình đó hát không hay lắm	lý đình|sys.full_name
+mình hay đi uống bia cùng nguyễn vang	nguyễn vang|sys.full_name
+phạm nguyễn trung quốc là giảng viên đại học của trường kinh tế	phạm nguyễn trung quốc|sys.full_name
+sử nguyễn đan thy là em của ba mình	sử nguyễn đan thy|sys.full_name
+tên thật của nó là võ thành vỹ	võ thành vỹ|sys.full_name
+hãy ngưng suy nghĩ về trần công phán	trần công phán|sys.full_name
+rồi có ai biết ông chủ là nguyễn nên không	nguyễn nên không|sys.full_name
+nông đức hiển là câu bạn tôi	nông đức hiển|sys.full_name
+em tên lê hoài bão	lê hoài bão|sys.full_name
+chắc ông lê đình lễ nghỉ việc rồi	lê đình lễ|sys.full_name
+phạm nguyễn quốc thịnh là bạn tôi	phạm nguyễn quốc thịnh|sys.full_name
+mọi người hay gọi mình với tên là trần văn trung	trần văn trung|sys.full_name
+đặng cảnh dậu là tên trong giấy tờ	đặng cảnh dậu|sys.full_name
+tôi là biện lê duy hân	biện lê duy hân|sys.full_name
+tôi vừa gọi cho phạm nhiêu nhưng không được	phạm nhiêu|sys.full_name
+tên mình không chê vào đâu được là nguyễn văn được	nguyễn văn được|sys.full_name
+trương thị nhung là em ạ	trương thị nhung|sys.full_name
+bùi lê đức hiếu là tôi	lê đức hiếu|sys.full_name
+tên anh ấy nghe có vẻ giống con gái trương ngọc trang	trương ngọc trang|sys.full_name
+có gì sai đâu khi tôi nói chuyện với nguyễn văn ảo	nguyễn văn ảo|sys.full_name
+trương thế dũng là cử nhân khoa kế toán	trương thế dũng|sys.full_name
+thằng bé đấy là từ thế sâm lành	từ thế sâm lành|sys.full_name
+kế toán của công ty đó trần phương thúy	trần phương thúy|sys.full_name
+trần thị khởi là tên của chú	trần thị khởi|sys.full_name
+nguyễn phước đã đến đây hơn chục lần	nguyễn phước|sys.full_name
+người vừa mới mua hàng xong là lê khiêm	lê khiêm|sys.full_name
+phạm thị huyền my là cô bé ngồi cùng bàn với tui	phạm thị huyền my|sys.full_name
+chắc là ngô mạnh phong không có ở đó	ngô mạnh phong|sys.full_name
+cái tên hồ hoàn kiếm thiệt nhiều bí ẩn	hồ hoàn kiếm|sys.full_name
+vừa ký xong giấy tờ với bùi hải đó	bùi hải|sys.full_name
+khách sạn như mây là của cô hoàng thị hằng hoa	hoàng thị hằng hoa|sys.full_name
+dạ, tên cháu là nông văn lài	nông văn lài|sys.full_name
+ông tôi tên là trương thị hoài phương	trương thị hoài phương|sys.full_name
+nguyễn nhật tuệ là tên mình đó	nguyễn nhật tuệ|sys.full_name
+hoàng thân là tôi	hoàng thân|sys.full_name
+bác tôi là trương công định	trương công định|sys.full_name
+cô tên nguyễn phúc	nguyễn phúc|sys.full_name
+tôi tên là nguyễn minh	nguyễn minh|sys.full_name
+dạ, tên ông em là cầm xuân ế	cầm xuân ế|sys.full_name
+hồ thịnh là tên ba mẹ mình đặt cho mình đó	hồ thịnh|sys.full_name
+tên mình là nguyễn thị hợi vì sinh đúng y năm hợi á mà	nguyễn thị hợi|sys.full_name
+tên là nguyễn thiên thời đó nha bạn	nguyễn thiên thời|sys.full_name
+tôi là hoàng mạnh thái	hoàng mạnh thái|sys.full_name
+nguyễn công phượng là cầu thủ hay chứ ai	nguyễn công phượng|sys.full_name
+tên trên chứng minh của mình là hoàng thị kiều	hoàng thị kiều|sys.full_name
+cô bé đó là hoàng thị xuyến	hoàng thị xuyến|sys.full_name
+nông quốc tuấn là chính em	nông quốc tuấn|sys.full_name
+nghe tên không muốn làm gì hết là nguyễn đừng	nguyễn đừng|sys.full_name
+nguyễn thị thúy vừa mới nói chuyện với tôi xong	nguyễn thị thúy|sys.full_name
+giáo viên của tôi đặng văn là	đặng văn là|sys.full_name
+huỳnh tâm phượng là cô phụ trách lớp em tôi	huỳnh tâm phượng|sys.full_name
+trần minh là cô	trần minh|sys.full_name
+nguyễn phú thứ là mình đây	nguyễn phú thứ|sys.full_name
+trời phú cho tên hay nguyễn thìn	nguyễn thìn|sys.full_name
+thời đó ai cũng biết bố tôi là nguyễn thu	nguyễn thu|sys.full_name
+chắc nguyễn thanh tân mới ghé nhà	nguyễn thanh tân|sys.full_name
+tên cô là trần thị lài	trần thị lài|sys.full_name
+nguyễn bá tước là tên trên chứng minh nhân dân của tôi	nguyễn bá tước|sys.full_name
+trương hải châu nghe giống tên của một quận ở đà nẵng	trương hải châu|sys.full_name
+có ai cho tôi liên lạc của nguyễn mỹ không	nguyễn mỹ|sys.full_name
+nguyễn phú tài là em mình	nguyễn phú tài|sys.full_name
+bạn không biết tôi tên là lê kim huệ hay sao	lê kim huệ|sys.full_name
+tui tên như sau trần bình trọng quyền	trần bình trọng quyền|sys.full_name
+nguyễn bính nghe sao giống tên của nhà thơ quá vậy	nguyễn bính|sys.full_name
+chắc cũng có một vài người biết hoàng văn sang	hoàng văn sang|sys.full_name
+võ mỹ kim vừa được đánh giá năm sao	võ mỹ kim|sys.full_name
+bùi đặng quách vũ là người của quốc hội	đặng quách vũ|sys.full_name
+trần thảo vy là tên đầy đủ của tôi	trần thảo vy|sys.full_name
+à, tao là triệu trung du	triệu trung du|sys.full_name
+nguyễn trọng nghĩa là anh mình đấy nhé	nguyễn trọng nghĩa|sys.full_name
+tớ là cũng thị hồng phấn	cũng thị hồng phấn|sys.full_name
+hà sơn nhan hy là tên đây đủ	hà sơn nhan hy|sys.full_name
+đoàn lê thanh phong là bí thư chi đoàn khoa quốc tế	đoàn lê thanh phong|sys.full_name
+người ngoài kia là hoàng thái hưng	hoàng thái hưng|sys.full_name
+không muốn rủ lý trần sang đi chút nào	lý trần sang|sys.full_name
+nguyễn hoàng đình hải là tên bạn đại học của tôi	nguyễn hoàng đình hải|sys.full_name
+trần đỗ công quyền là tôi	trần đỗ công quyền|sys.full_name
+họ tên là nguyễn hoàng hải	nguyễn hoàng hải|sys.full_name
+khương đỗ hoàng trai là người được cử ra hoàng sa	khương đỗ hoàng trai|sys.full_name
+nguyễn thành hải là tên do ông mình đặt	nguyễn thành hải|sys.full_name
+tri lễ lô văn ðiệp là tên cô ruột	tri lễ lô văn ðiệp|sys.full_name
+lăng thế nha là ông ngoại thằng bé đó	lăng thế nha|sys.full_name
+phạm thị mỹ hằng là cô bé đó	phạm thị mỹ hằng|sys.full_name
+tên mình là cao văn thông	cao văn thông|sys.full_name
+hà đức me là tên vợ đầu của tôi	hà đức me|sys.full_name
+tạ thị khánh vân là bạn học chị ánh	tạ thị khánh vân|sys.full_name
+trương văn tính là anh đây	trương văn tính|sys.full_name
+tên tôi là lương thị thìn	lương thị thìn|sys.full_name
+doãn kế viêm là chồng cô thảo	doãn kế viêm|sys.full_name
+nguyễn khánh hằng là tên em đó chị	nguyễn khánh hằng|sys.full_name
+tên ở trường của em là hứa văn sến	hứa văn sến|sys.full_name
+tôi luôn làm chị đại với tên hoàng tỉ	hoàng tỉ|sys.full_name
+nguyễn danh vọng có phải tên bạn không	nguyễn danh vọng|sys.full_name
+không muốn nhắc đến nguyễn trân nữa đâu nha	nguyễn trân|sys.full_name
+nguyễn trần bảo nguyên là tôi	nguyễn trần bảo nguyên|sys.full_name
+võ thành chương là đứa hay rủ mình đi chơi nhiều nhất	võ thành chương|sys.full_name
+bế văn đàn là tên ông đấy	bế văn đàn|sys.full_name
+chị kia là võ thành hoa đó	võ thành hoa|sys.full_name
+tên mình có 4 chữ thôi phùng hoàng hải bình	phùng hoàng hải bình|sys.full_name
+ngô gia bảo là thân đồng đó	ngô gia bảo|sys.full_name
+trịnh thức là ai vậy ta	trịnh thức|sys.full_name
+tôi là lâm võ ngọc trí	võ ngọc trí|sys.full_name
+ba mẹ đặt tên cho tôi là dương hoàng sang	dương hoàng sang|sys.full_name
+tên đầy đủ là trịnh văn thông	trịnh văn thông|sys.full_name
+hoàng thành là tên của tôi	hoàng thành|sys.full_name
+tên nguyễn phỉnh nghe mắc cười ghê	nguyễn phỉnh|sys.full_name
+trịnh thị cuống là đồng nghiệp công ty cũ của ba tôi	trịnh thị cuống|sys.full_name
+hồ ngọc hà là tên ca sĩ nổi tiếng ở việt nam	hồ ngọc hà|sys.full_name
+cô bạn đó tên thật là trần thị thông minh	trần thị thông minh|sys.full_name
+tên đầy đủ là trần văn lợi	trần văn lợi|sys.full_name
+không có gì sai khi mình gọi tên bạn là nguyễn hợi	nguyễn hợi|sys.full_name
+cái ông nguyễn thời thiệt mất nết	nguyễn thời|sys.full_name
+họ và tên là nguyễn trí đức	nguyễn trí đức|sys.full_name
+hồ văn mến là tên tớ	hồ văn mến|sys.full_name
+nguyễn hậu là tên một người em của tôi	nguyễn hậu|sys.full_name
+mới tới quán của trần trịnh tài xong	trần trịnh tài|sys.full_name
+bạn ông là ngô lương hoàng thùy	ngô lương hoàng thùy|sys.full_name
+mình là trương hồng thái	trương hồng thái|sys.full_name
+tên đủ của mình là hoàng văn chương	hoàng văn chương|sys.full_name
+tên mình là nguyễn văn thời	nguyễn văn thời|sys.full_name
+đặng thị mỹ hương là người có công với cách mạng	đặng thị mỹ hương|sys.full_name
+tên khai sinh trịnh nguyễn quang hiền	trịnh nguyễn quang hiền|sys.full_name
+tạ lê thanh sơn là tên tôi	tạ lê thanh sơn|sys.full_name
+tên trên giấy khai sinh là hoàng văn mến	hoàng văn mến|sys.full_name
+nguyễn phước hà thanh là mình	nguyễn phước hà thanh|sys.full_name
+trương thị kèn là tên của bạn học tôi	trương thị kèn|sys.full_name
+thái văn vẽ là người bình luận về bài báo hôm qua	thái văn vẽ|sys.full_name
+nguyễn sinh đã luôn tỏ ra là người tài nhất đội	nguyễn sinh|sys.full_name
+nguyễn thị én là mình bạn nhé	nguyễn thị én|sys.full_name
+bác có tên là nguyễn thị vương	nguyễn thị vương|sys.full_name
+huỳnh văn mến là mình đây	huỳnh văn mến|sys.full_name
+tên của cô là thái văn linh	thái văn linh|sys.full_name
+mình tên là cao văn minh	cao văn minh|sys.full_name
+hoàng thị minh là bác	hoàng thị minh|sys.full_name
+trương thành tính là tên của ba mình	trương thành tính|sys.full_name
+thạch thị mèo là con bé đấy	thạch thị mèo|sys.full_name
+tòng thị phóng là tên vị anh hùng việt nam	tòng thị phóng|sys.full_name
+đậu thị thanh mỹ là sinh viên khoa kinh doanh	đậu thị thanh mỹ|sys.full_name
+dạ, con là phùng lê hưng yên	phùng lê hưng yên|sys.full_name
+tên em là nguyễn hồng hạnh	nguyễn hồng hạnh|sys.full_name
+cơ sở của lê công hân là bán rẻ nhất	lê công hân|sys.full_name
+người bên cạnh tôi là đồng thị tố như	đồng thị tố như|sys.full_name
+bạn tớ là nguyễn sinh thành đó	nguyễn sinh thành|sys.full_name
+tôi cần gọi cho trần dọc	trần dọc|sys.full_name
+tán thị hoàng hậu là nó đó	tán thị hoàng hậu|sys.full_name
+tên tôi trùng với tên người nổi tiếng là võ văn kiệt	võ văn kiệt|sys.full_name
+tên là nguyễn mạnh đức	nguyễn mạnh đức|sys.full_name
+tớ là hoa hậu đặng thuy dung	đặng thuy dung|sys.full_name
+ai là trương công thanh vậy	trương công thanh|sys.full_name
+đinh thị biểu duyên đang công tác ở lào cai	đinh thị biểu duyên|sys.full_name
+mẹ tớ tên là lý thái hồng	lý thái hồng|sys.full_name
+có ai đã từng nghe lý nghiêm nói chưa	lý nghiêm|sys.full_name
+khi nào nguyễn trần sinh cũng có ý kiến hết	nguyễn trần sinh|sys.full_name
+có nhất thiết phải nói đây đủ tên là lý định huệ không	lý định huệ|sys.full_name
+người đứng đầu tổ chức là tiêu văn dương quá	tiêu văn dương quá|sys.full_name
+tên mình là nguyễn thị hồng hạnh	nguyễn thị hồng hạnh|sys.full_name
+vâng, tên này ai cũng biết nè hồ chí minh	hồ chí minh|sys.full_name
+tôi là nguyễn mạnh hùng	nguyễn mạnh hùng|sys.full_name
+nguyễn văn hậu là tên tôi	nguyễn văn hậu|sys.full_name
+tôi sẽ luôn giàu có với tên nguyễn ngân hàng	nguyễn ngân hàng|sys.full_name
+tô ngọc anh là bạn cấp tiểu học của tôi	tô ngọc anh|sys.full_name
+mình là quách tuấn vũ	quách tuấn vũ|sys.full_name
+lý đình cát là tên mình nhé	lý đình cát|sys.full_name
+đã đi với trần thị thạch rồi đó mày	trần thị thạch|sys.full_name
+tố thị vàng anh là tôi	tố thị vàng anh|sys.full_name
+nguyễn duy là tên của một đồng nghiệp	nguyễn duy|sys.full_name
+đỗ trúc linh là bạn cùng lớp	đỗ trúc linh|sys.full_name
+tên tôi đầy đủ là nguyễn mạnh tùng	nguyễn mạnh tùng|sys.full_name
+trần nguyễn trung đô là tên tớ	trần nguyễn trung đô|sys.full_name
+tên mình là nguyễn hoàng thái	nguyễn hoàng thái|sys.full_name
+hoàng kiều là tỷ phú đó	hoàng kiều|sys.full_name
+tôi có tên là nguyễn mạnh hoàng	nguyễn mạnh hoàng|sys.full_name
+bạn có thể gọi mình là trần hoàng hà	trần hoàng hà|sys.full_name
+nghe hơi sai nhưng tôi có tên là nguyễn thị thân	nguyễn thị thân|sys.full_name
+đõ nhật nam là thần đồng việt nam	đõ nhật nam|sys.full_name
+thạch kim sêng là tên của bạn mình	thạch kim sêng|sys.full_name
+tớ được sinh ra với tên là hoàng thiên thanh đấy nhé	hoàng thiên thanh|sys.full_name
+tên facebook trùng với tên thật nguyễn tố nhân	nguyễn tố nhân|sys.full_name
+người dạy tôi môn toán là cô ngụy lê ánh tuyết	ngụy lê ánh tuyết|sys.full_name
+phan thanh lê là tên ai vậy	phan thanh lê|sys.full_name
+ông thị yếm là nhân viên chi nhánh 5 của mobifone	ông thị yếm|sys.full_name
+bạn ngồi sát bên mình là hoàng thiên nga	hoàng thiên nga|sys.full_name
+trần đình thiên làm bạn nha	trần đình thiên|sys.full_name
+trần lệ quân là tên của một diễn viên trong phim	trần lệ quân|sys.full_name
+phan đức khiêm là trưởng phòng của công ty tôi	phan đức khiêm|sys.full_name
+lỳ thị chom là bạn mẹ tớ	lỳ thị chom|sys.full_name
+đoàn trọng điểu là tên của bạn bố tôi	đoàn trọng điểu|sys.full_name
+chưa bao giờ ai chê tên tôi là hoàng thẩm mỹ	hoàng thẩm mỹ|sys.full_name
+tên bạn giống y tên ba mình trần hoàng long	trần hoàng long|sys.full_name
+hà ngọc phước là tên công nhân công ty tôi	hà ngọc phước|sys.full_name
+phí quỳnh anh là người sáng tác ra bài hát đó	phí quỳnh anh|sys.full_name
+nguyễn ngã là tên thằng bạn thân tao	nguyễn ngã|sys.full_name
+thái quang hưng là đồng nghiệp của mình	thái quang hưng|sys.full_name
+quách cao yềm là má của bạn tôi	quách cao yềm|sys.full_name
+nguyễn bửu long ân là tôi	nguyễn bửu long ân|sys.full_name
+tên ở quê chị là nguyễn bính	nguyễn bính|sys.full_name
+vừa gọi xong cho thằng nguyễn công đó	nguyễn công|sys.full_name
+tên thật là nguyễn hoàng hải đăng	nguyễn hoàng hải đăng|sys.full_name
+giống y chang tên của tôi trần thúy vân	trần thúy vân|sys.full_name
+cả làng đều biết anh ấy tên thân thị thìn	thân thị thìn|sys.full_name
+mai hoa ly là vợ của thầy giáo dạy pháp luật đại cương	mai hoa ly|sys.full_name
+mai tươi sáng là người của tổ chức thế giới	mai tươi sáng|sys.full_name
+tớ tên là lê đình trọng	lê đình trọng|sys.full_name
+đừng ai nhắc đến tên đào mạnh tùng	đào mạnh tùng|sys.full_name
+nguyễn phím là tên thằng bên nhà mình	nguyễn phím|sys.full_name
+ai cũng biết lý đình hoa là công tử nhà giàu	lý đình hoa|sys.full_name
+cô đó tên là phạm vỹ nhật	phạm vỹ nhật|sys.full_name
+tên đủ là lê văn cường	lê văn cường|sys.full_name
+tên nghe nhiều nhất là hoàng thanh	hoàng thanh|sys.full_name
+nguyễn thành ngũ là người đang mặc áo đen đó	nguyễn thành ngũ|sys.full_name
+hai bạn trong lớp cùng có tên là vương hoàng thùy	vương hoàng thùy|sys.full_name
+nên rủ bà ngô cẩm thuyền đi ăn cùng	ngô cẩm thuyền|sys.full_name
+thật cạn lời với nguyễn tiến anh	nguyễn tiến anh|sys.full_name
+triệu thị nhái là đại biểu quốc hội khóa x	triệu thị nhái|sys.full_name
+tên của chủ cửa hàng là nguyễn sáng vang	nguyễn sáng vang|sys.full_name
+triệu anh tùng là tên mình đó bạn	triệu anh tùng|sys.full_name
+hình như nguyễn trung thành là tên của anh ta	nguyễn trung thành|sys.full_name
+tên đủ của anh là nguyễn hoàng hải	nguyễn hoàng hải|sys.full_name
+tôi là hoàng thông	hoàng thông|sys.full_name
+lưu hương giang là vợ của hồ hoài anh lái xe	lưu hương giang|sys.full_name;hồ hoài anh|sys.full_name
+đông văn phú quý là cưng nha	đông văn phú quý|sys.full_name
+tên cô là hoàng lê	hoàng lê|sys.full_name
+mọi người hay gọi tôi là trần hoàng quân	trần hoàng quân|sys.full_name
+tên của anh là võ tự lực	võ tự lực|sys.full_name
+văn khá bảnh là tớ nha cậu ơi	văn khá bảnh|sys.full_name
+giới nghệ sỹ ai cũng biết hoài linh	hoài linh|sys.full_name
+nguyễn nghĩa là tớ đây chứ ai	nguyễn nghĩa|sys.full_name
+nguyễn thái nhân chắc là bạn trai nó	nguyễn thái nhân|sys.full_name
+không ai biết cô đó là nguyễn thái hiền	nguyễn thái hiền|sys.full_name
+nguyễn hải siêu là công an phường đó	nguyễn hải siêu|sys.full_name
+thường những người tên hoàng thị sang rất có tài	hoàng thị sang|sys.full_name
+huỳnh văn hoàng đế là tên khai sinh của ba chị tôi	huỳnh văn hoàng đế|sys.full_name
+cậu bé đó là đường thị thi ca	đường thị thi ca|sys.full_name
+em tên là nguyễn thái luyện	nguyễn thái luyện|sys.full_name
+trương thị hồng là tôi chứ ai	trương thị hồng|sys.full_name
+tên của tôi là trần hoàng phúc	trần hoàng phúc|sys.full_name
+thái quang khiêm là tên anh ta	thái quang khiêm|sys.full_name
+người đang nói trong phòng đó là lương văn song	lương văn song|sys.full_name
+người hay kể chuyện với mình là trịnh công đông	trịnh công đông|sys.full_name
+ờ là tăng nguyễn trúc tuệ	tăng nguyễn trúc tuệ|sys.full_name
+ngô thị trâm là tên mình á	ngô thị trâm|sys.full_name
+dương khắc linh ấy bạn	dương khắc linh|sys.full_name
+tên tớ được ba đặt là trần thành thái	trần thành thái|sys.full_name
+ai đó đang gọi cho phạm trần nga rồi	phạm trần nga|sys.full_name
+phan nguyễn hiệp định là tôi	phan nguyễn hiệp định|sys.full_name
+tôi là trần đức minh phương	trần đức minh phương|sys.full_name
+mình là lý văn hưng	lý văn hưng|sys.full_name
+có vẻ lê thông không được tốt bụng cho lắm	lê thông|sys.full_name
+nguyễn tình là bạn mình chứ ai	nguyễn tình|sys.full_name
+thằng lý thái toàn thường mua đồ không nhìn giá	lý thái toàn|sys.full_name
+nguyễn thị hạ là tên của cô	nguyễn thị hạ|sys.full_name
+hoàng thanh nghiêm là chủ tịch công ty bạn mình	hoàng thanh nghiêm|sys.full_name
+có phải là nguyễn hồ thi nga đó không	nguyễn hồ thi nga|sys.full_name
+lê kim hưng khánh là tôi	lê kim hưng khánh|sys.full_name
+nguyễn hà minh là tớ	nguyễn hà minh|sys.full_name
+bác là nguyễn xí	nguyễn xí|sys.full_name
+trần thị chi là tên em	trần thị chi|sys.full_name
+tên của một ngôi sao cũng tên mình trần thị mỹ tâm	trần thị mỹ tâm|sys.full_name
+ai đã thanh toán tiền cho hóa đơn của nguyễn bông	nguyễn bông|sys.full_name
+đồ ăn của võ nhân có lẽ không hợp khẩu vị của mình	võ nhân|sys.full_name
+bạn bùi trần hải luôn biết cách quan tâm người khác	bùi trần hải|sys.full_name
+trần tống gia bảo là tên cậu tôi	trần tống gia bảo|sys.full_name
+ai mà chẳng biết thái văn lung cơ chứ	thái văn lung|sys.full_name
+có gọi cho ngô công tài chưa	ngô công tài|sys.full_name
+nguyễn chính luôn làm việc hăng say	nguyễn chính|sys.full_name
+chú có tên là trần văn thắng	trần văn thắng|sys.full_name
+tôi tên hoàng văn chung	hoàng văn chung|sys.full_name
+tăng thiên kim là chị của bạn tôi	tăng thiên kim|sys.full_name
+hoàng văn chung là chú	hoàng văn chung|sys.full_name
+tên tôi là ngguyễn trí tuệ	ngguyễn trí tuệ|sys.full_name
+tao đoán là nguyễn vân sẽ không có nhiều kinh nghiệm	nguyễn vân|sys.full_name
+chủ cửa hàng đó là vương đình tuệ	vương đình tuệ|sys.full_name
+anh kia là hoàng thái hà	hoàng thái hà|sys.full_name
+hãy rủ phan công thái đi cùng nhé	phan công thái|sys.full_name
+huỳnh thị kim ngân là tên mình đấy	huỳnh thị kim ngân|sys.full_name
+tên anh là hoàng thị mến	hoàng thị mến|sys.full_name
+trần hoàng phước là tôi đây chứ ai	trần hoàng phước|sys.full_name
+bùi văn duôi là bạn thuở nhỏ của anh tôi	bùi văn duôi|sys.full_name
+hoàng thị kiều là tên đây đủ của mình	hoàng thị kiều|sys.full_name
+tên thái hoàng linh nghe thật hay	thái hoàng linh|sys.full_name
+dẫn đầu nhóm tôi là trương như quỳnh	trương như quỳnh|sys.full_name
+người sáng tác bài hát đó là văn cao	văn cao|sys.full_name
+đỗ đại đồng là đại biểu của quốc hội khóa 11	đỗ đại đồng|sys.full_name
+bác là tống văn thông minh	tống văn thông minh|sys.full_name
+chắc nhà của ngô thiên giàu có	ngô thiên|sys.full_name
+nguyễn hòa vang vừa mới tới quán	nguyễn hòa vang|sys.full_name
+chàng trai đấy là khúc kiều bạch đấy	khúc kiều bạch|sys.full_name
+chắc mẹ chồng cô ta là nguyễn hoàng thi thanh	nguyễn hoàng thi thanh|sys.full_name
+không thể chấp nhận được tính cách của nguyễn khiêm	nguyễn khiêm|sys.full_name
+tên đủ là hoàng văn minh	hoàng văn minh|sys.full_name
+tên là trần minh thư ý là sách hay đó bạn	trần minh thư|sys.full_name
+bà cao thị hà đã đi làm rồi	cao thị hà|sys.full_name
+tên khai sinh mình là phạm gia khiêm	phạm gia khiêm|sys.full_name
+thằng ngô bá chính làm việc không ra gì	ngô bá chính|sys.full_name
+phạm minh tuệ là tôi nè bạn	phạm minh tuệ|sys.full_name
+tao đang nói với nguyễn chỉnh đó nha	nguyễn chỉnh|sys.full_name
+võ hoàng trọng biểu là tên tôi	võ hoàng trọng biểu|sys.full_name
+nguyễn thiện thuật là người có đóng góp lớn trong lần hợp tác này	nguyễn thiện thuật|sys.full_name
+nguyễn thông là tên thằng nhà kế bên	nguyễn thông|sys.full_name
+tên hơi bị chảnh là nguyễn mạnh	nguyễn mạnh|sys.full_name
+người dẫn đầu là hoàng kiều ngân	hoàng kiều ngân|sys.full_name
+một cái tên rất ấn tượng hà văn chương	hà văn chương|sys.full_name
+ông thợ điện đó tên là nguyễn phúc chinh	nguyễn phúc chinh|sys.full_name
+bà cao vân thanh là đầu bếp số một ở đây	cao vân thanh|sys.full_name
+mình chỉ muốn ngồi cùng bàn ăn với ngô thanh thôi	ngô thanh|sys.full_name
+ninh ngô ta lài là bác nuôi của con	ninh ngô ta lài|sys.full_name
+thái văn hưng là tên đầy đủ của tôi	thái văn hưng|sys.full_name
+lê trọng quốc là mình đây	lê trọng quốc|sys.full_name
+có ai biết tôi là hoàng thị lệ không	hoàng thị lệ|sys.full_name
+nguyễn thành phong là đứa giỏi nhất	nguyễn thành phong|sys.full_name
+cầm chí kiên là người đứng đầu tổ chức	cầm chí kiên|sys.full_name
+lưu thị chi lan là tiến sĩ kinh tế ở việt nam	lưu thị chi lan|sys.full_name
+tiểu long nữ là bạn gái cậu đó	tiểu long nữ|sys.full_name
+trưởng phòng của tôi là trương hồ thi nga	trương hồ thi nga|sys.full_name
+nguyễn thị kim châu là dì cô bé đó	nguyễn thị kim châu|sys.full_name
+võ văn tiền là bạn tớ	võ văn tiền|sys.full_name
+đừng có đợi thằng thái quang chung	thái quang chung|sys.full_name
+tên trên giấy tờ của tôi là trần đức giang	trần đức giang|sys.full_name
+có gì hơi sai khi gọi lê đình lý là tao	lê đình lý|sys.full_name
+dao hà nữ là người biểu diễn tiết mục múa vòng	dao hà nữ|sys.full_name
+ngô hoàng công là bạn sát nhà mình nè	ngô hoàng công|sys.full_name
+nguyễn ngọc thạch là mình nha cậu	nguyễn ngọc thạch|sys.full_name
+rồi đã hát được bài hát của nguyễn cẩm ly chưa	nguyễn cẩm ly|sys.full_name
+nguyễn thịnh là tên tôi	nguyễn thịnh|sys.full_name
+mình thích bạn lê công lý nhất	lê công lý|sys.full_name
+đừng bắt chước tên tôi nguyễn trọng đại	nguyễn trọng đại|sys.full_name
+tôi tên là nguyễn duy	nguyễn duy|sys.full_name
+anh ta là nguyễn nhiệm đó	nguyễn nhiệm|sys.full_name
+nhà thơ tố hữu là tác giả của bài thơ ánh trăng	tố hữu|sys.full_name
+lấy giúp mình cái đó với nguyễn thanh phím	nguyễn thanh phím|sys.full_name
+ngô thị đăm đăm là họ hàng nhà nội	ngô thị đăm đăm|sys.full_name
+tên trần thị hiền hay lắm	trần thị hiền|sys.full_name
+nhà thơ tên nguyễn du	nguyễn du|sys.full_name
+phó phòng kinh doanh là phùng đức tùng	phùng đức tùng|sys.full_name
+trần hùng là tên của cô đó	trần hùng|sys.full_name
+tên là hoàng thiên	hoàng thiên|sys.full_name
+ai cũng biết anh ta là nguyễn hoài nhân	nguyễn hoài nhân|sys.full_name
+tôi không nhớ nổi trương công thanh là ai	trương công thanh|sys.full_name
+bạn bùi thanh hải vừa mới đi sài gòn	bùi thanh hải|sys.full_name
+đổi tên thành hồ minh thi	hồ minh thi|sys.full_name
+võ trần công luôn để lại nhiều ý kiến	võ trần công|sys.full_name
+lâm chấn khang là tên diễn viên người hồng kong	lâm chấn khang|sys.full_name
+tên là hoàng thịnh	hoàng thịnh|sys.full_name
+mc thời sự mới là ngô bảo anh	ngô bảo anh|sys.full_name
+nguyễn thúy hằng là bạn đồng nghiệp của mình	nguyễn thúy hằng|sys.full_name
+hành khách tên nguyễn trọng vỹ	nguyễn trọng vỹ|sys.full_name
+bác của mình tên là nguyễn du	nguyễn du|sys.full_name
+nhanh nhanh đi thôi nguyễn bình	nguyễn bình|sys.full_name
+trần phương trâm là tên của một bạn học đại học với tôi	trần phương trâm|sys.full_name
+bác sỹ đó là trương bửu	trương bửu|sys.full_name
+học sinh tệ nhất lớp là trần văn thành	trần văn thành|sys.full_name
+cù chính lan là tên của chú	cù chính lan|sys.full_name
+anh trai tôi tên hoàng văn trai	hoàng văn trai|sys.full_name
+mẹ chồng tôi là nguyễn thị mỹ	nguyễn thị mỹ|sys.full_name
+ngô công thiện hay bị nói là người nhiều chuyện	ngô công thiện|sys.full_name
+ngồi phía trước là bạn tôi nguyễn thị hồng hạnh	nguyễn thị hồng hạnh|sys.full_name
+có ai nhớ cái tên thân thị thắm không	thân thị thắm|sys.full_name
+có người gọi tên võ thị luân	võ thị luân|sys.full_name
+không hiểu nổi thằng phan công danh đang làm cái quỷ gì	phan công danh|sys.full_name
+chắc bạn ấy tên là nguyễn mạnh thủy	nguyễn mạnh thủy|sys.full_name
+nguyễn vương đang tìm ý tưởng mới cho mình	nguyễn vương|sys.full_name
+đô long giang là một trong những người tham gia quốc hội khóa x	đô long giang|sys.full_name
+trương thế quốc việt là tên thật của tớ	trương thế quốc việt|sys.full_name
+nguyễn thị thanh là tôi nè	nguyễn thị thanh|sys.full_name
+má tôi là trần thị thu	trần thị thu|sys.full_name
+anh nguyễn công dân vừa mới mua táo xong	nguyễn công dân|sys.full_name
+tôi đã bán hàng cho lê thanh công	lê thanh công|sys.full_name
+mới đi du lịch cùng phạm mạnh tú xong đó	phạm mạnh tú|sys.full_name
+không thể đánh vần được cái tên trần bol	trần bol|sys.full_name
+tên thằng đó là ngô vân	ngô vân|sys.full_name
+tối nay đi ăn nhé nguyễn phương trân	nguyễn phương trân|sys.full_name
+hà thị khích lệ là khách của trung tâm	hà thị khích lệ|sys.full_name
+ba mẹ tôi đặt tên là thái văn lê	thái văn lê|sys.full_name
+không thích cách làm việc của trần mịch lắm	trần mịch|sys.full_name
+chắc nó được hưởng nhờ phúc của nguyễn thanh tiến	nguyễn thanh tiến|sys.full_name
+tên chồng tôi là trương quang nhật	trương quang nhật|sys.full_name
+hoàng thịnh là tên mình	hoàng thịnh|sys.full_name
+cháu tên là nguyễn sinh	nguyễn sinh|sys.full_name
+rồi có ai gặp lê tiến cường chưa	lê tiến cường|sys.full_name
+có lẽ nguyễn công huế có rất nhiều tài	nguyễn công huế|sys.full_name
+cái tên nguyễn phúc khá ấn tượng đấy	nguyễn phúc|sys.full_name
+hoàng chương là bạn thân của mình	hoàng chương|sys.full_name
+à, tôi tên là hà lê nguyễn đình nhanh	hà lê nguyễn đình nhanh|sys.full_name
+lý hoài sáo là người cho ra bài báo đầu tiên của báo bạo há	lý hoài sáo|sys.full_name
+lê dương chông cư là bạn ba	lê dương chông cư|sys.full_name
+a, dạ vâng tên em là mâu vĩ dạ bông	mâu vĩ dạ bông|sys.full_name
+nguyễn thích là tên của chú	nguyễn thích|sys.full_name
+tôi là nguyễn trọng ngô	nguyễn trọng ngô|sys.full_name
+chị ta có tên là hồ thị quỳnh	hồ thị quỳnh|sys.full_name
+anh rể tôi lê quang vũ	lê quang vũ|sys.full_name
+đừng hòng dụ được thằng nguyễn lợi đi chơi	nguyễn lợi|sys.full_name
+ca sĩ đàm vĩnh hưng hát rất hay	đàm vĩnh hưng|sys.full_name
+bố mẹ tôi luôn nhắc về ý nghĩa của cái tên nguyễn đình tuệ	nguyễn đình tuệ|sys.full_name
+tên ở trên giấy tờ là ngô văn sang	ngô văn sang|sys.full_name
+thầy của tôi là phan thành tài	phan thành tài|sys.full_name
+đồng nghiệp là cũng thị lợi	cũng thị lợi|sys.full_name
+hồ hoàng gia bảo là tên do gia đình tôi đặt cho tôi	hồ hoàng gia bảo|sys.full_name
+nghe tên luôn thấy tiền là trương kim ngân	trương kim ngân|sys.full_name
+rồi đã gọi được mai thanh hãn chưa	mai thanh hãn|sys.full_name
+mình tên là vũ hoàng	vũ hoàng|sys.full_name
+cô ấy tên nguyễn thị minh	nguyễn thị minh|sys.full_name
+bạn có biết ai tên là hoàng trường giang không	hoàng trường giang|sys.full_name
+anh rể là lò văn sa	lò văn sa|sys.full_name
+nguyễn viết lũy là bạn chị gái tôi	nguyễn viết lũy|sys.full_name
+nguyễn kim hậu là tên của đứa em cùng phòng	nguyễn kim hậu|sys.full_name
+hành khách tên phạm thị kiều trang	phạm thị kiều trang|sys.full_name
+hiệu trưởng trường tôi là ngô thị phóng	ngô thị phóng|sys.full_name
+tên trên giấy khai sinh của chị là nguyễn gia bảo	nguyễn gia bảo|sys.full_name
+các bạn hay gọi mình với tên là hồ thị nga	hồ thị nga|sys.full_name
+nguyễn ngọc cẩm luôn nói rất nhiều	nguyễn ngọc cẩm|sys.full_name
+hoàng kiều ân là chị gái tôi	hoàng kiều ân|sys.full_name
+tớ tên nguyễn văn luyện	nguyễn văn luyện|sys.full_name
+thằng đối diện tôi là hoàng công thanh	hoàng công thanh|sys.full_name
+ông thị cao lài là người quen của bác	ông thị cao lài|sys.full_name
+tên cha sinh mẹ đẻ là nguyễn hoàng thông	nguyễn hoàng thông|sys.full_name
+trần kiều ân là tên đầy đủ của chị	trần kiều ân|sys.full_name
+dì tôi cũng có tên là hứa thị phấn	hứa thị phấn|sys.full_name
+tôi tên là trần minh phương	trần minh phương|sys.full_name
+tống văn thoại lai là tên hàng xóm nhà tôi	tống văn thoại lai|sys.full_name
+hoàng văn trung là cô	hoàng văn trung|sys.full_name
+tôi tên nguyễn đức	nguyễn đức|sys.full_name
+cao hồng phong có vẻ rất xuất sắc	cao hồng phong|sys.full_name
+ngô tổng thống là tên vị vua đầu tiên của nước tôi	ngô tổng thống|sys.full_name
+rồi không ai biết nguyễn thị hoan là ai	nguyễn thị hoan|sys.full_name
+tên khai sinh mình là nguyễn văn diêu	nguyễn văn diêu|sys.full_name
+tên là hoàng thị thiên	hoàng thị thiên|sys.full_name
+bác tên hoàng văn hồ	hoàng văn hồ|sys.full_name
+mọi người vẫn hay cười khi nghe tên nguyễn thích	nguyễn thích|sys.full_name
+người mới nhận được ưu đãi đó là trần văn cao	trần văn cao|sys.full_name
+mình tên là võ hữu trường ân	võ hữu trường ân|sys.full_name
