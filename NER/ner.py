@@ -56,9 +56,14 @@ def build_model(num_tags,words, hidden_size = 50):
     model.summary()
     return model
 
-def ner(s):
-    df = load_data('data/data_ner.xlsx')
-    word2idx, tag2idx, idx2word, idx2tag, num_tag,words, tags = process_data(df)
+
+def load_model(num_tag, words, path):
+    model = build_model(num_tag,words)
+    model.load_weights(path)
+    return model
+
+    
+def ner_inference(s, model, word2idx, idx2tag):
     
     X = []
     for element in s:
@@ -69,16 +74,11 @@ def ner(s):
             else:
                 temp.append(word2idx[element[i]])
         X.append(temp)
-    # X = [[word2idx[w] for w in a] for a in s]
 
     # Padding các câu về max_len
     X_test = pad_sequences(maxlen = max_len, sequences = X, padding = "post", value = word2idx["PAD"])
 
-
-
-    model = build_model(num_tag,words)
-    model.load_weights("model.hdf5")
-
+    #Predict
     y_pred = model.predict(X_test)
     y_pred = np.argmax(y_pred, axis=-1)
     y_pred = [[idx2tag[i] for i in row] for row in y_pred]
