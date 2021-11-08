@@ -1,6 +1,6 @@
 import streamlit as st
 from annotated_text import annotated_text
-from ner import ner
+from ner import *
 import requests
 
 def find_index_entity(start_index,source_string,target_entity):
@@ -29,6 +29,7 @@ def find_index_entity(start_index,source_string,target_entity):
                 break
     return end_index, entity_name
 
+
 dict_color = {'SYS.STREET_NUMBER': "#8ef", 'SYS.STREET': "#faa",
 'SYS.DISTRICT': "#afa",'SYS.CITY': '#bca',  'SYS.WARD': "#fea",
 'SYS.ADDRESS_LAND': "#8ef", 'SYS.ADDRESS_HAMLET': "#aaf",
@@ -38,15 +39,25 @@ dict_color = {'SYS.STREET_NUMBER': "#8ef", 'SYS.STREET': "#faa",
 'SYS.FLOOR': '#bca', 'SYS.ADDRESS_ROOM': '#bca',  'SYS.ADDRESS_ALLEY': '#faa',
 'SYS.LICENSE_PLATE_NUMBER': '#afa','SYS.FULL_NAME': '#8ef',
 }
+
+df = load_data('data/data_ner.xlsx')
+path = 'model.hdf5'
+
+word2idx, tag2idx, idx2word, idx2tag, num_tag,words, tags = process_data(df)
+model =  load_model(num_tag, words, path)
+
+
+# New model
 st.title("DEMO NAME ENTITY RECOGNITION")
 #Textbox for text user is entering
 st.subheader("Please enter your text")
 text = st.text_input('Enter text') #text is stored in this variable
+text = text.lower()
 st.header("New Model")
 if (len(text)>0):
     text_ws =[]
     text_ws.append(text.split(' '))
-    tag = ner(text_ws)
+    tag = ner_inference(text_ws, model, word2idx, idx2tag)
     #Display results of the NLP task
 
     display = []
@@ -63,8 +74,6 @@ if (len(text)>0):
                 j = end_index+1
 
     annotated_text(*display)
-
-
 
 
 # Old model
@@ -94,6 +103,3 @@ else:
     display_old.append(text)
 
 annotated_text(*display_old)
-
-
-
